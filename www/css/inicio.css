@@ -1,0 +1,28 @@
+body {
+    background: #003A58;
+    background-image: url('../img/fondo_inicio.jpg');
+    background-repeat: no-repeat;
+}
+
+#parrafo {
+    font-size: 30px;
+    color: white;    
+    padding-top: 400px;
+}
+
+.vertical {
+    top: 200px;
+  }
+
+
+  .btn-sq-xlg {
+    width: 300px !important;
+    height: 300px !important;
+    font-size: 50px;
+  }
+
+  .btn-big {
+    width: 200px !important;
+    height: 200px !important;
+    font-size: 70px;
+  }
